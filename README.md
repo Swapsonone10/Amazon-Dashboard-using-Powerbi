@@ -1,9 +1,11 @@
 ![Amazon PowerBi](https://github.com/Swapsonone10/Amazon-Dashboard-using-Powerbi/assets/106740366/a9c95bb9-17cb-4c94-8e41-a81101dfa13c)
 
-##About
+#About
+
 Welcome to the GitHub repository for the Global Superstore Dataset! This repository hosts a comprehensive dataset sourced from Kaggle, offering a rich collection of sales and order data from the Global Superstore. The dataset is a valuable resource for data enthusiasts, analysts, and researchers looking to explore and analyze the operations and performance of a multinational retail organization.
 
-Dataset Overview
+#Dataset Overview
+
 The Global Superstore Dataset contains a vast array of records, capturing sales, orders, and customer information from various regions and product categories. The data covers an extensive time period, providing insights into the retail business's performance and trends over time.
 
 Main Features
